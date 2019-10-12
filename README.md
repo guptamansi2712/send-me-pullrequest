@@ -1,3 +1,3 @@
 # send-me-pullrequest
 This is for hacktoberfest only
-Hii Mansi!I am Akriti .
+Heya Mansi! How's hactoberfest'19 goig on?
